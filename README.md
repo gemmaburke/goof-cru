@@ -46,7 +46,11 @@ To run the app on browser, from the main project directory, cd into client and n
 - size(s)
 - image link
 
+<<<<<<< HEAD
 ## Backend to be connected as feature extension
+=======
+## Backend functionality not yet connected; feature-extension forthcoming
+>>>>>>> dd20fa188cdd30910f8abb42e0266542a71773ce
 
 ### Database schema
 ![Database schema](images/schema.jpg)
