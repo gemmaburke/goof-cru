@@ -1,6 +1,9 @@
 # Goof Cru
 A simple online shop interface for an independent streetwear apparel brand
 
+## Landing page
+![Landing page image](images/shop-screenshot.jpg)
+
 ## How to:
 To run the app on browser, from the main project directory, cd into client and npm start
 
@@ -31,10 +34,6 @@ To run the app on browser, from the main project directory, cd into client and n
 * About page with contact form
 * Design for web & for mobile view
 
-
-### Landing page
-![Landing page image](images/shop-screenshot.jpg)
-
 ### Data
 * Stored initially as array of objects in separate JS file
 * Stock item to include:
@@ -46,11 +45,7 @@ To run the app on browser, from the main project directory, cd into client and n
 - size(s)
 - image link
 
-<<<<<<< HEAD
-## Backend to be connected as feature extension
-=======
 ## Backend functionality not yet connected; feature-extension forthcoming
->>>>>>> dd20fa188cdd30910f8abb42e0266542a71773ce
 
 ### Database schema
 ![Database schema](images/schema.jpg)
