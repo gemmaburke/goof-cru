@@ -1,4 +1,4 @@
-# mvp-project-1
+# Goof Cru
 A simple online shop interface for an independent streetwear apparel brand
 
 ## How to:
@@ -42,7 +42,7 @@ To run the app on browser, from the main project directory, cd into client and n
 - size(s)
 - image link
 
-## Backend not being implemented at this stage, though may try to introduce later
+## Backend functionality not yet connected; feature-extension forthcoming
 
 ### Database schema
 ![Database schema](images/schema.jpg)
